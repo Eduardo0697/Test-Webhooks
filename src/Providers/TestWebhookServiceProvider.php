@@ -3,7 +3,7 @@
 namespace TestWebhook\Providers;
 
 
-use HelloWorld\Providers\TestWebhookRouteServiceProvider;
+use TestWebhook\Providers\TestWebhookRouteServiceProvider;
 use Plenty\Plugin\ServiceProvider;
 
 class TestWebhookServiceProvider extends ServiceProvider
