@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\Providers;
+namespace TestWebhook\Providers;
 
 
 use Plenty\Plugin\RouteServiceProvider;
